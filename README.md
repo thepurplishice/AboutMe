@@ -1,13 +1,12 @@
 # ABOUT ME
 - 👋 Hi, It's me @MCOrange
 - 🌍 I’m a boy, that interested in Minecraft
-- 🌱 I pretty like to learn more about C#
+- 🌱 I pretty like to learn more about CPP
 - 🎮 To develop my own game
 - 💞️ I’m looking for some game builders
 - 📫 To finish our project
 
 # OUR CURRENT PROJECT
-- TERRARIA LTSC Project
-- HORION Client 2.0 Project
+- LinearOS
 
 🚀 Join us, and flight together
