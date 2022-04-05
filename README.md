@@ -1,12 +1,18 @@
-# ABOUT ME
-- 👋 Hi, It's me @MCOrange
-- 🌍 I’m a boy, that interested in Minecraft
-- 🌱 I pretty like to learn more about CPP
-- 🎮 To develop my own game
-- 💞️ I’m looking for some game builders
-- 📫 To finish our project
+# ABOUT WinkeyCHENG #NTHYKYLDSS
+
+### BEGIN
+
+- 🎉 print("Hello World") -- Python 3
+- 🌱 std::cout << "I love Codeforces\n"; -- GNU G++ 20
+- 💕 System.out.println("2022001 - 0707481") -- Java
+- 🌍 console.log("I play Minecraft and Terraria") -- Node.js
+- 🐱‍🏍 WriteLn("Work hard, play hard!") -- Free Pascal
+- 💪 Log.d("Add oil", "Achieve our goals!") -- Kotlin
+
+### END.
 
 # OUR CURRENT PROJECT
-- LinearOS
+- Codeforces Contests Solution
+- HKOI DSE Tasks Solution
 
-🚀 Join us, and flight together
+🚀 Join us, Flight together!
