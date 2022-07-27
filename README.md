@@ -1,9 +1,9 @@
-# ABOUT WinkeyCHENG #NTHYKYLDSS
+# ABOUT ZZXP
 
 ### BEGIN
 
 - 🎉 print("Hello World") -- Python 3
-- 🌱 std::cout << "I love Codeforces\n"; -- GNU G++ 20
+- 🌱 std::cout << "I love Anarchy\n"; -- GNU G++ 20
 - 💕 System.out.println("2022001 - 0707481") -- Java
 - 🌍 console.log("I play Minecraft and Terraria") -- Node.js
 - 🐱‍🏍 WriteLn("Work hard, play hard!") -- Free Pascal
@@ -12,7 +12,6 @@
 ### END.
 
 # OUR CURRENT PROJECT
-- Codeforces Contests Solution
-- HKOI DSE Tasks Solution
+- SigmaClient(Anarhy) Σ
 
 🚀 Join us, Flight together!
