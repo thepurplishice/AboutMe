@@ -1,17 +1,12 @@
-# ABOUT ZZXP
+# Short Overview of ThePurplishIce
 
 ### BEGIN
 
 - 🎉 print("Hello World") -- Python 3
-- 🌱 std::cout << "I love Anarchy\n"; -- GNU G++ 20
-- 💕 System.out.println("2022001 - 0707481") -- Java
-- 🌍 console.log("I play Minecraft and Terraria") -- Node.js
-- 🐱‍🏍 WriteLn("Work hard, play hard!") -- Free Pascal
-- 💪 Log.d("Add oil", "Achieve our goals!") -- Kotlin
+- 🌱 std::cout << "Nice to see ya!!\n"; -- GNU G++ 20
+- 💕 System.out.println("140ED8") -- Java
+- 🌍 console.log("Feel free to friend me on any platforms") -- Node.js
+- 🐱‍🏍 WriteLn("Mission: Work hard, play hard!") -- Free Pascal
+- 💪 Log.d("Strive!!", "For Everything I Want To Achieve") -- Kotlin
 
 ### END.
-
-# OUR CURRENT PROJECT
-- SigmaClient(Anarhy) Σ
-
-🚀 Join us, Flight together!
